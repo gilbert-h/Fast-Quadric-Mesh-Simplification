@@ -1,6 +1,3 @@
-2017-11-24
-gilbert-h
---- USAGE NOTES ---
 csimplify exposes 3 functions from Simplify.h to Python. Rudimentary at the moment. OBJ output currently caps ends of meshes, which may or may not be desirable.
 
 # import statement
